@@ -2,6 +2,8 @@
 Anna Duan   
 November 4, 2023  
 
+![NYC Population Density Animation](https://github.com/annaduan09/30daymapchallenge-day-3-a-century-of-immigration/raw/faee5108a1400251f49393cfefa5540fa25d493d/immigration.gif)
+
 
 This project visualizes the evolution of New York City's population density distribution at the census tract level over the last 110 years, from 1910 to 2020. The animation created showcases changes in population density across different neighborhoods, highlighting growth patterns and demographic shifts within the city. This work was completed as part of the 2023 [#30daymapchallenge](https://30daymapchallenge.com/), specifically for Day 3 themed "polygons."
 
